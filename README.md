@@ -33,7 +33,7 @@ Building intelligent web solutions that bridge AI and business needs. Training p
 
 ## Fun Highlights
 - As a Teaching Assistant, I created [this repo](https://github.com/ak-boateng/sql-queries-lab) for my students to use as a reference guide in creating and inserting data using SQL
-- 
+  
 
 
 
@@ -43,7 +43,7 @@ Building intelligent web solutions that bridge AI and business needs. Training p
 - Life is not a zero sum game, "For me to win, you don't have to lose".
 - Do what comes your way.
 - Life is so good if you put in 100% efforts, the results will show.
-- Your are not as bad as you think you are. The ones who appear perfect are not as good as you think they are.
+- You are not as bad as you think you are. The ones who appear perfect are not as good as you think they are.
 - There's joy in mastery, be proud of what you already know, no matter how little you think it is.
 
 
