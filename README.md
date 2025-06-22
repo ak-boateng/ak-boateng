@@ -4,7 +4,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=gray)](mailto:amesesekb@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&color=gray)](https://open.spotify.com/user/31qwejdzbxaxuy2j56zktyts6b7u?si=Vi1LgdEtQUirTPnPJlO79g)
 
-**BSc Computer Science -> Software Engineer -> AI Data Trainer -> Aspiring Data Scientist: ML Specialization**  
+**BSc Computer Science -> Software Engineer -> AI Data Trainer -> Data Scientist: ML Specialization**  
 Building intelligent web solutions that bridge AI and business needs. Training production AI models at Invisible Technologies using RLHF and supervised fine-tuning, while mastering Python for data science and exploring Machine Learning tools. Backed by hands-on experience in React, Django, and ethical AI implementation.<br>
 
  
